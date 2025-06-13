@@ -1,7 +1,7 @@
 package HospitalManagement;
 
 public class InPatient extends Patient{
-
+	int a = 80;
 	String doctor = "alen";
 	int bedCharge = 1000;
 	public InPatient(String name, int age, String disease) {

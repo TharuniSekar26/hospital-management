@@ -7,7 +7,7 @@ public class Controller {
 		Operation op = new Operation();
 		Scanner sc = new Scanner(System.in);
 		int n=0;
-		
+		int abc = 0;
 		int type = 0;
 		do {
 			System.out.println("enter 1 for admit\n2 for display\n3for discharge");
